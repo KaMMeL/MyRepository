@@ -1,0 +1,13 @@
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\Serialize.exe.config
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\Serialize.exe
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\Serialize.pdb
+C:\C#\Serialize\Serialize\Serialize\obj\Debug\Serialize.csprojResolveAssemblyReference.cache
+C:\C#\Serialize\Serialize\Serialize\obj\Debug\Serialize.exe
+C:\C#\Serialize\Serialize\Serialize\obj\Debug\Serialize.pdb
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\Newtonsoft.Json.dll
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\protobuf-net.dll
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\ServiceStack.Text.dll
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\Newtonsoft.Json.xml
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\protobuf-net.pdb
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\protobuf-net.xml
+C:\C#\Serialize\Serialize\Serialize\bin\Debug\ServiceStack.Text.xml
